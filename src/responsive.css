@@ -1,0 +1,10 @@
+@media (max-width : 1000px){
+    .shop{
+        grid-template-columns: repeat(2, 223px);
+    }
+}
+@media (max-width : 500px){
+    .shop{
+        grid-template-columns: repeat(1, 223px);
+    }
+}
